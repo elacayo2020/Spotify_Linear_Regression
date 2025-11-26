@@ -106,12 +106,3 @@ seaborn
 ```
 
 ---
-
-
----
-
-## 🙌 Acknowledgments
-
-- Kaggle dataset: *Spotify Artist Feature & Collaboration Network*  
-- Network analysis: `NetworkX`  
-- Big data & modeling: `PySpark` MLlib
